@@ -1,1 +1,1 @@
-# stepik-tests
+git-add - Add file contents to the index
