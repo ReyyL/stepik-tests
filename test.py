@@ -14,7 +14,7 @@ try:
     browser.find_element_by_id('robotCheckbox').click()
     browser.find_element_by_id('robotsRule').click()
     browser.find_element_by_css_selector("button.btn").click()
-
+    print(x)
 finally:
     time.sleep(5)
     browser.quit()
